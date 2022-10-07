@@ -602,3 +602,39 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
+
+
+
+## Superscript
+
+**Code:**
+```
+x^2^
+```
+**Output:**
+
+x<sup>2</sup>
+
+**Note:** Some sites/applications don't support this so you have to use the HTML tags, to get superscript.
+
+**Code:**
+```
+x<sup>2</sup>
+```
+
+## Subscript
+
+**Code:**
+```
+CH~4~
+```
+**Output:**
+
+CH<sub>4</sub>
+
+**Note:** Some sites/applications don't support this(they consider this as strikethrough) so you have to use the HTML tags, to get subscript.
+
+**Code:**
+```
+CH<sub>4</sub>
+```
