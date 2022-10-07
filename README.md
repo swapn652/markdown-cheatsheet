@@ -26,6 +26,8 @@
 22. [DropDown](#dropdown)
 23. [Diagrams](#diagrams)
 24. [FootNote](#footnote)
+25. [Superscript](#superscript)
+26. [Subscript](#subscript)
 
 Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
